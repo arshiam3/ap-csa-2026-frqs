@@ -11,7 +11,7 @@ public class Bottle {
     public double updateAmount(double removed) {
         double currAmount = 0.0;
         currAmount = capacity - removed;
-        if (currAmount == capacity*0.25) {
+        if (currAmount < capacity*0.25) {
             currAmount = capacity;
         }
 
