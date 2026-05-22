@@ -1,10 +1,11 @@
 # Question #2:
 
 ## My Approach:
-I created a variable that would track the amount of liquid in a bottle at a given time. I then set that variable to be equal to the maximum capacity that the user sets through the constructor. Then, in the updateAmount method, I created a variable that tracked the new amount of liquid in the bottle. I set that variable, called currAmount to be equal to the capacity, subtracted by the amount to be removed. I then used an if statement, where if currAmount is 25 percent or lower than the original capacity, the original capacity is returned.
+
 
 ## Course Connections:
 
 ## What Gave Me Trouble:
+I initially struggled with getting the correct inputs because I was using one instance variable throughout the whole code.
 
 ## What I Would Do Differently:
