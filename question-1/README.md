@@ -2,6 +2,7 @@
 
 ## My Approach:
 Part A: I set the username variable to be equal to the requestedName parameter, and used the given isAvailable() method to check its availability. If the requestedName was not available, the name cycles through a while loop with an incrementing variable that is added to the end of the username.
+
 Part B:
 ## Course Connections:
 The Candy Box project was really helpful in doing this frq. The project allowed for a lot of practice in coding with different classes, and I got very comfortable doing it during the project. 
