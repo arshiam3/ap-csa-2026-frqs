@@ -9,3 +9,4 @@ This question used concepts that were covered in the Confetti and Candy Box proj
 I initially struggled with getting the correct inputs because I was using one instance variable throughout the whole code. When I created a variable tracking the initial capacity, and the capacity after the liquid was removed, the code worked properly.
 
 ## What I Would Do Differently:
+To avoid the issue with the variables, I would run through the logic of the problem before moving on to see if the code would compile in reality as I imagine it to.
