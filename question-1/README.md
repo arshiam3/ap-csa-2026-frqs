@@ -1,4 +1,4 @@
-# Question #1:
+# Question #1: Methods and Control Structures
 
 ## My Approach:
 Part A: I set the username variable to be equal to the requestedName parameter, and used the given isAvailable() method to check its availability. If the requestedName was not available, the name cycles through a while loop with an incrementing variable that is added to the end of the username.
